@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+padding: 10px 20px;
+border: none;
+border-radius: 5%;
+background-color: rgb(218, 195, 165);
+}
